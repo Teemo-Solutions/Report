@@ -1,3 +1,4 @@
+<div align="center">
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS 
 
 ![icon-upc](assents/UPC_logo_transparente.png)
@@ -14,3 +15,19 @@
 - Yasser Renteria Palacios (u202214130)
 - Vicente Quijandria Araneda (u201822697)
 - Jose Miguel Riega Salas (u202211254)
+
+Fecha: **Agosto de 2024**.
+</div>
+
+# Registro de Versiones del Informe
+| Versión | Fecha      | Autores            | Descripción de Modificación |
+|---------|------------|--------------------|----------------------------------------------------------------------------------|
+|1|||
+
+- - -
+
+# Project Report Collaboration Insights
+
+# Contenido
+## Tabla de contenidos
+#### [Capítulo I: Introducción](/chapter01.md)
