@@ -32,7 +32,7 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
     <th colspan="2">Riega Salas, Jose Miguel</th>
   </tr>
   <tr>
-    <td>foto</td>
+    <td></td>
     <td>descripción</td>
   </tr>
   <tr>
@@ -40,8 +40,10 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
   </th>
   </tr>
   <tr>
-    <td>foto</td>
-    <td>descripción</td>
+    <td><img src= "assets/chapter01/andres-photo.png" ></td>
+    <td>Soy Hola, soy Andrés Torres, estudiante de 19 años en el quinto ciclo de Ingeniería de Software. Siempre me ha interesado tecnología, siempre me he preguntado cómo funcionan las cosas, lo que me motiva a ir más allá de lo que se me enseña en clase. Esta curiosidad me impulsa a explorar cada detalle, ayundome ampliar mis conocimiento y definir mejor mi enfoque profesional.
+      
+Además de la tecnología, el fútbol es otra de mis grandes pasiones, lo he practicado durante prácticamente toda mi vida. La dedicación al deporte me ha enseñado el valor del trabajo en equipo, la disciplina y la perseverancia, cualidades que aplico también en mi vida académica y profesional.</td>
   </tr>
 </table>
 
