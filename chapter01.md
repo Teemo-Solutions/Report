@@ -1,3 +1,33 @@
+<style>
+  body {
+    font-family: 'Times New Roman', sans-serif;
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+  
+  p {
+    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
+  }
+
+  h1 {
+    margin-left: 0; /* No aplica sangría para el título principal */
+  }
+
+  h2 {
+    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
+  }
+
+  h3 {
+    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
+  }
+
+  h4 {
+    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
+  }
+</style>
+
 # **CAPÍTULO I: INTRODUCCIÓN**
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -24,7 +54,7 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
   <tr>
     <th colspan="2">Renteria Palacios, Yasser</th>
   </tr>
-  <td><img src="assets/chapter01/yasser.png" style="width:700px; height:auto;"></td>
+  <td><img src="assets/chapter01/yasser-photo.png" style="width:700px; height:auto;"></td>
     <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional.</td>
   <tr>
     <th colspan="2">Riega Salas, Jose Miguel</th>
@@ -43,7 +73,7 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
 </table>
 
 ## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
