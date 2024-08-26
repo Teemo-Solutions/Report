@@ -55,3 +55,54 @@ Además de la tecnología, el fútbol es otra de mis grandes pasiones, lo he pra
 ## 1.2.2.3. Lean UX Hypothesis Statements.
 ## 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
+
+En cuanto el segmento objetivo, es importante delimitar con a que sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo. 
+
+
+<table>
+  <tr>
+    <th colspan="2">Gamers Entusiastas</th>
+  </tr>
+  <tr>
+    <td> <b>Segmento Objetivo / Características</b></td>
+    <td><b> Descripción del segmento</b></td>
+  </tr>
+  <tr>
+    <td> Geográfico </td>
+    <td> <li> <b> Ubicación principal:</b> Lima, Perú (considerando su alta densidad poblacional y acceso a internet)
+    <li><b>Potencial de expansión:</b> Otras ciudades importantes de Perú con una escena gamer activa (Arequipa, Trujillo, Cusco, etc.)
+    <li> <b>Consideraciones geográficas: </b>
+    Acceso a internet de banda ancha
+    Distribución de consolas y PCs para gaming
+    Presencia de eventos y comunidades gamer locales
+    </td>
+  </tr>
+  <tr>
+    <td> Demográfico </td>
+    <td> <li><b>Edad:</b> 15-35 años (grupo con mayor afinidad a los videojuegos y adopción de nuevas tecnologías)
+    <li><b>Nivel socioeconómico:</b> Medio y medio-alto (capacidad adquisitiva para hardware, juegos y suscripciones)
+    <li><b>Nivel educativo:</b> Secundaria completa o superior (mayor comprensión de plataformas digitales y tendencias) 
+  </td>
+  </tr>
+  <tr>
+    <td> Psicográfico </td>
+    <td>
+    ESTILO DE VIDA:
+    <li><b>Apasionados por los videojuegos: </b> dedican tiempo y recursos a esta actividad
+    <li><b>Conectados digitalmente:</b> activos en redes sociales y plataformas online
+    <li><b>Sociales:</b> disfrutan interactuar con otros jugadores y compartir experiencias
+    <br>
+    <br>
+    PERSONALIDAD: 
+    <li><b>Curiosos y abiertos a nuevas experiencias:</b>buscan constantemente nuevos juegos y desafíos
+    <li><b>Competitivos:</b> les gusta medir sus habilidades y superarse
+    <li><b>Valoran la calidad:</b> prefieren juegos bien diseñados y experiencias inmersivas
+    <br>
+    <br>
+    VALORES Y ACTITUDES:
+    <li><b> Disposición a pagar por contenido premium:</b> reconocen el valor de funciones exclusivas y mejoras
+    <li><b>Buscan comunidad:</b> desean pertenecer a un grupo con intereses afines
+    <li><b> Aprecian la personalización:</b> quieren recomendaciones y experiencias adaptadas a sus gustos
+    </td>
+  </tr>
+</table>
