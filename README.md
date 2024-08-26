@@ -1,6 +1,6 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS 
 
-![icon-upc](assents/UPC_logo_transparente.png)
+![icon-upc](assets/UPC_logo_transparente.png)
 
 ## DESARROLLO DE APLICACIONES OPEN SOURCE (SV54)
 ### PROFESOR: Hugo Allan Mori Paiva
