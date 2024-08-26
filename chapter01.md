@@ -25,8 +25,8 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
     <th colspan="2">Renteria Palacios, Yasser</th>
   </tr>
   <tr>
-    <td>foto</td>
-    <td>descripción</td>
+    <td><img src="assets/chapter01/yasser.png" style="width:700px; height:auto;"></td>
+    <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional.</td>
   </tr>
   <tr>
     <th colspan="2">Riega Salas, Jose Miguel</th>
