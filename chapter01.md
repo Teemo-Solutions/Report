@@ -46,11 +46,13 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
     <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 19 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
   </tr>
   <tr>
-    <th colspan="2">Quijandria Aranedal, Vicente </th>
+    <th colspan="2">Quijandria Araneda, Vicente </th>
   </tr>
   <tr>
-    <td>foto</td>
-    <td>descripción</td>
+    <td><img src="assets/chapter01/vicente-photo.png" style="width:700px; height:auto;"></td>
+    <td>Mi nombre es Vicente Quijandria, tengo 24 años y estudio Ingeniería de Software en la UPC. Me apasiona mucho el desarrollo de aplicaciones, los algoritmos y estructuras de datos y las arquitecturas de software.
+    Actualmente trabajo como Analista de Despliegues en la empresa Tech-Mahindra aunque me gustaria cambiar de área a desarrollo.
+    En mis tiempos libres me gusta ver futbol, programar y pasar tiempo de calidad con mi enamorada, familia y amigos.</td>
   </tr>
   <tr>
     <th colspan="2">Renteria Palacios, Yasser</th>
