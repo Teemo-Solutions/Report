@@ -43,6 +43,23 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Para fortalecer nuestra posición en el mercado, Teemo Solutions se centrará en aprovechar sus fortalezas clave, como
+la personalización de recomendaciones y la experiencia fluida en la plataforma Vortex, que permite a los jugadores 
+descubrir nuevos títulos basados en sus intereses y conectar con otros jugadores de manera sencilla. Este enfoque nos 
+permitirá diferenciarnos en un mercado competitivo, destacándonos como una plataforma integral tanto para jugadores como 
+para desarrolladores de videojuegos. Además, buscaremos oportunidades de expansión mediante alianzas con estudios de desarrollo 
+independientes, lo que no solo mejorará nuestra oferta de contenido, sino que también nos posicionará como un líder en 
+innovación dentro del sector de los videojuegos.
+
+Con lo que respecta a nuestras debilidades, como la etapa inicial de desarrollo y los recursos limitados frente a competidores más
+grandes, adoptaremos un enfoque estratégico que incluya implementaciones piloto con estudios de juegos indie para demostrar 
+el valor de Vortex antes de una expansión más amplia y dandole oportunidad de exponer ssus juegos a la audiencia. Esto nos 
+permitirá mitigar riesgos y construir una base de confianza 
+con nuestros primeros usuarios. Simultáneamente, abordaremos las amenazas del mercado, como la competencia de plataformas 
+más establecidas, mediante estrategias de marketing enfocadas en destacar nuestra diferenciación y un enfoque constante 
+en la seguridad y privacidad de los datos de los usuarios. Esto reforzará la confianza de nuestra audiencia y nos permitirá 
+competir eficazmente frente a otras plataformas de descubrimiento de videojuegos.
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
