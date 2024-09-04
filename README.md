@@ -10,7 +10,7 @@
 
 #### INTEGRANTES:
 - Andrés Alberto Torres García (U202220528)
-- Fernando Jesus Lizano Coll Cardenas(u202214522)
+- Fernando Jesus Lizano Coll Cardenas (u202214522)
 - Yasser Renteria Palacios (u202214130)
 - Vicente Quijandria Araneda (u201822697)
 - Jose Miguel Riega Salas (u202211254)
