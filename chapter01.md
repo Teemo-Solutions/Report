@@ -111,6 +111,9 @@ Para analizar los antecedentes y problemáticas del desarrollo nuestro proyecto,
 Esta estructura nos permite una comprensión clara y detallada de los antecedentes y problemáticas relacionadas con el desarrollo de la aplicación web para recomendaciones de videojuegos.
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+En la actual era digital, los videojuegos se han convertido en una de las principales formas de entretenimiento, con una enorme diversidad de títulos y plataformas disponibles. Sin embargo, muchos jugadores enfrentan la dificultad de descubrir nuevos juegos que realmente se alineen con sus preferencias y estilo de juego. Además, la experiencia social de compartir estos intereses con amigos está fragmentada entre múltiples plataformas, lo que dificulta la interacción fluida entre jugadores. Por otro lado, los desarrolladores de juegos independientes enfrentan barreras para dar a conocer sus creaciones en un mercado saturado.
+<br>
+Vortex busca resolver estos problemas proporcionando una plataforma unificada donde los usuarios pueden recibir recomendaciones personalizadas de videojuegos basadas en sus preferencias y listas de favoritos. La plataforma también permite la interacción social, permitiendo agregar amigos y compartir intereses en juegos. Para los desarrolladores, Vortex ofrece la oportunidad de subir y promocionar sus videojuegos directamente a una audiencia segmentada, aumentando la visibilidad y el alcance de sus proyectos. De este modo, Vortex se posiciona como una solución integral tanto para jugadores en busca de su próximo juego favorito, como para desarrolladores que buscan dar a conocer sus innovaciones.
 #### 1.2.2.2. Lean UX Assumptions.
 
 **Bussiness Assumptions**
