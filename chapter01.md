@@ -110,7 +110,6 @@ Para analizar los antecedentes y problemáticas del desarrollo nuestro proyecto,
 
 Esta estructura nos permite una comprensión clara y detallada de los antecedentes y problemáticas relacionadas con el desarrollo de la aplicación web para recomendaciones de videojuegos.
 ### 1.2.2 Lean UX Process.
-a
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
 
