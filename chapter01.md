@@ -204,7 +204,7 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 
 **1. Recomendaciones Personalizadas:**
 
-**- Algoritmo de Recomendación:**  Implementar un sistema avanzado de recomendaciones que sugiera juegos a los usuarios en función de sus preferencias de juego, hábitos y títulos previos jugados.
+**- Algoritmo de Recomendación:** Implementar un sistema avanzado de recomendaciones que sugiera juegos a los usuarios en función de sus preferencias de juego, hábitos y títulos previos jugados.
 
 **- Promociones Exclusivas:** Ofrecer promociones exclusivas de juegos que se ajusten a los gustos individuales de cada usuario, incentivando la participación y la compra de nuevos títulos.
 
@@ -218,11 +218,22 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 
 **- Suscripción Premium:** Ofrecer una suscripción que brinde acceso a funciones avanzadas, como recomendaciones más personalizadas, acceso anticipado a promociones exclusivas y herramientas adicionales para gestionar sus juegos y conexiones.
 
-**- Publicidad Personalizada para Desarrolladores:**  Implementar un modelo de publicidad en la plataforma que permita a los desarrolladores promover sus juegos a audiencias segmentadas, con un enfoque en los intereses específicos de los usuarios.
+**- Publicidad Personalizada para Desarrolladores:** Implementar un modelo de publicidad en la plataforma que permita a los desarrolladores promover sus juegos a audiencias segmentadas, con un enfoque en los intereses específicos de los usuarios.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+**Creemos que** el sistema de recomendaciones personalizadas de videojuegos basado en preferencias y conexiones sociales proporcionará una experiencia más atractiva a los gamers. **Sabremos que** esto es cierto cuando el 60% de los usuarios interactúen con las recomendaciones y encuentren nuevos juegos para descargar o jugar.
+
+**Creemos que** la posibilidad de que las empresas desarrolladoras promocionen sus títulos directamente en la plataforma proporcionará mayor visibilidad a los desarrolladores de videojuegos independientes. **Sabremos que** esto es cierto cuando las empresas vean un aumento del 25% en clics en los juegos promocionados a través de nuestra plataforma.
+
+**Creemos que** permitir a los usuarios crear perfiles detallados y conectarse con amigos en la plataforma proporcionará una mayor interacción social a los gamers. **Sabremos que** esto es cierto cuando al menos el 40% de los usuarios interactúen regularmente con sus amigos y compartan recomendaciones de juegos.
+
+**Creemos que** el sistema de suscripciones premium que ofrece acceso a funcionalidades avanzadas, como recomendaciones más precisas y acceso anticipado a lanzamientos de videojuegos, proporcionará un valor adicional a los gamers frecuentes. **Sabremos que** esto es cierto cuando el 20% de los usuarios opten por la suscripción premium en los primeros 6 meses.
+
+**Creemos que** al ofrecer una estructura de ingresos donde el 90% del pago por cada videojuego va para el desarrollador y el 10% para la plataforma proporcionará un incentivo atractivo a los desarrolladores para publicar y promocionar sus juegos en nuestra plataforma. **Sabremos que** esto es cierto cuando al menos el 30% de los desarrolladores de videojuegos independientes elijan nuestra plataforma para vender sus títulos y generemos ingresos extra a partir de estas transacciones.
+
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
-En cuanto el segmento objetivo, es importante delimitar con a que sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
+En cuanto el segmento objetivo, es importante delimitar con a qué sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
 
 Para ello, se ha definido dos segmentos objetivo: Gamers Entusiastas y Empresas Desarrolladoras de Videojuegos. A continuación, se detallan las características y descripciones de cada segmento:
 
