@@ -310,6 +310,10 @@ El propósito de este wireframe es asegurar que la disposición de los elementos
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<img src="/assets/chapter04/diagrama de clase.png"  alt="diagrama-clase">
+
+link: https://lucid.app/lucidchart/7edbb6f6-7003-4684-bb9d-f62fd45e1e61/edit?view_items=PLa-FQ270MDN&invitationId=inv_a15098d6-839d-41bd-aee2-a45db8d1b6ad
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
