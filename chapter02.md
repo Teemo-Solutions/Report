@@ -383,6 +383,8 @@ Este análisis permite comprender mejor las tareas clave que realizan los difere
 
 ### 2.3.3. User Journey Mapping.
 
+El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuarios clave: Gamer Entusiasta y Empresa Desarrolladora de Videojuegos. Cada User Journey muestra cómo interactúan estos usuarios con los juegos o plataformas existentes y los desafíos que enfrentan, desde el descubrimiento hasta el abandono o la continuidad de su uso. Estos journeys son esenciales para identificar áreas clave de oportunidad que nuestra plataforma buscará mejorar.
+
 **Segmento Objetivo: Gamers Entusiastas**  
 ![JourneyMap01](assets/journey_map_seg01.png)
 
