@@ -275,5 +275,4 @@ Juego Relacionado: Videojuego que el sistema de Vortex sugiere a un jugador, bas
 <br>
 Reseña de Videojuego: Opinión escrita por un jugador sobre un videojuego, que puede ser visible para otros jugadores de la plataforma y ayudar a influir en las recomendaciones y decisiones de compra.
 <br>
-Notificación de Actividad: Alerta enviada a los jugadores cuando sus amigos interactúan con la plataforma, como cuando agregan nuevos juegos a su lista de favoritos o cuando reciben una nueva recomendación.
-<br>
+
