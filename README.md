@@ -23,11 +23,10 @@
 
 ---
 # Project Report Collaboration Insights
-Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestionar el progreso grupal.
-En Trello hemos organizado las tareas de cada integrante y con ello se puede visualizar el avance de cada asignación.
+Para este proyecto hemos utilizado las herramientas GitHub  para gestionar el progreso grupal.
 
 Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
-[WebSource.com](https://github.com/Aplicaciones-Webs-Grupo04)
+[Teemo.com](https://github.com/Teemo-Solutions/Report-OpenSource.git)
 
 ---
 # Contenido
