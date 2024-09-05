@@ -203,6 +203,9 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 **Creemos que** al ofrecer una estructura de ingresos donde el 90% del pago por cada videojuego va para el desarrollador y el 10% para la plataforma proporcionará un incentivo atractivo a los desarrolladores para publicar y promocionar sus juegos en nuestra plataforma. **Sabremos que** esto es cierto cuando al menos el 30% de los desarrolladores de videojuegos independientes elijan nuestra plataforma para vender sus títulos y generemos ingresos extra a partir de estas transacciones.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+<img src="/assets/chapter01/leanUX/canva.png" alt="lean UX canva" >
+
 ## 1.3. Segmentos objetivo.
 En cuanto el segmento objetivo, es importante delimitar con a qué sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
 
