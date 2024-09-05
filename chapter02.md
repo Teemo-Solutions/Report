@@ -383,6 +383,12 @@ Este análisis permite comprender mejor las tareas clave que realizan los difere
 
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
+
+- **Empathy Map Primer Segmento Objetivo(Gamers Entusiastas)**
+  ![UserPersona_Segmento1](assets/Map1.png)
+- **Empathy Map Segundo Segmento Objetivo(Empresa desarrolladora de Videojuegos)**
+  ![UserPersona_Segmento2](assets/Map2.png)
+  
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
