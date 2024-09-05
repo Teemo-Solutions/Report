@@ -342,6 +342,8 @@ Inconveniente al exportar el contenido del figma, revisión completa en el enlac
 
 ![DiagramContext](assets/Componentes.png)
 
+URL: https://www.structurizr.com/workspace/94886/dsl
+
 ## 4.7. Software Object-Oriented Design
    ### 4.7.1. Class Diagrams
 
