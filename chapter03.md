@@ -1,7 +1,7 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-#### Gamers
+### Gamers
 
 <img src="/assents/to-be-scenario-gamers.png" alt="to-be-scenario-gamers" />
 
