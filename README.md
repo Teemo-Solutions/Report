@@ -29,6 +29,8 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 [Teemo.com](https://github.com/Teemo-Solutions/Report-OpenSource.git)
 ---
 
+# Student Outcome
+
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|----------------------|--------------|
 | ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias | <br><br>Fernando Lizano:<br>Lideró el proyecto y ayudó en todos los puntos del informe de incio hasta el final de la entrega. Además, hizo gran parte de la Landing Page..<br><br>Yasser Rentería:<br>Ayudó en la mayoría de puntos del informe de inicio a fin, comunicandose con sus compañeros constantemente y apoyando en la Landing.<br><br>Andres Torres:<br>Diseñó los diagramas necesario de base de datos y clase. Además que se reunió cuando el equipo lo necesitaba y ayudó en la Landing.<br><br>José Riega:<br>Realizó el Imapct Mapping.<br><br>Vicente Quijandria<br>Hizó el problem statemnt y una entrevista de segmento objetivo empresa desarrolladora de videojuegos | Los estudiantes demostraron una sólida capacidad para comunicarse efectivamente con diversas audiencias. Utilizaron una variedad de medios y técnicas, incluyendo presentaciones orales, informes escritos, sesiones de retroalimentación, contenido multimedia y comunicación interpersonal. Adaptaron su lenguaje y enfoque según el público objetivo, desde expertos técnicos hasta el público general. Esta diversidad de habilidades comunicativas les permitió transmitir información compleja de manera clara y accesible, facilitando la colaboración en equipo y la difusión efectiva del proyecto a diferentes grupos de interés. |
