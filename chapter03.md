@@ -11,29 +11,6 @@
 
 ## 3.2. User Stories.
 
-Las historias de usuario son descripciones concisas de las funcionalidades que desean los usuarios, expresadas desde su perspectiva. Nos ayudan a entender qué quieren lograr y por qué lo necesitan. Al escribirlas, enfatizamos el valor que la funcionalidad aportará al usuario y cómo la usará en su día a día. Esto nos permite priorizar las características del producto según su relevancia para el usuario y crear soluciones que realmente resuelvan sus problemas y satisfagan sus necesidades.
-
-
-<table>
-  <tr>
-    <th valign="top">Epic/User<br>Story ID</th>
-    <th valign="top">Título</th>
-    <th valign="top">Descripción</th>
-    <th valign="top">Criterios de aceptación</th>
-    <th valign="top">Relacionado con (Epic ID)</th>
-  </tr>
-  <tr>
-    <td valign="top">HU1</td>
-    <td valign="top"> titulo </td>
-    <td valign="top">descripcion </td>
-    <td valign="top"> criterios de aceptacion</p>
-    </td>
-    <td valign="top">Epica asociada</td>
-  </tr>
-</table>
-
-## User Stories y Epics
-
 Este documento presenta un conjunto de **User Stories** y **Epics** para la plataforma de videojuegos orientada tanto a **Gamers Entusiastas** como a **Desarrolladores de Videojuegos**. Se incluye el formato de historias de usuario, donde cada una tiene criterios de aceptación en el formato Gherkin, y se presentan tanto las historias para la interfaz del usuario final como las **Technical Stories** para el RESTful API.
 
 ---
