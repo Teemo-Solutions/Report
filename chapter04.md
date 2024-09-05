@@ -48,9 +48,21 @@ La paleta de colores seleccionada para la plataforma se ha diseñado con el obje
 
 #F4F7FA (Gris muy claro): Este color se emplea como fondo principal para áreas extensas, ofreciendo una base neutra y suave que no cansa la vista, manteniendo una atmósfera limpia y ligera.
 
+<p align="center">
+  <img src="assets/chapter04/somewhite.png" style="width:500px; height:auto;">
+</p>
+
 #FFFFFF (Blanco puro): Se utiliza en secciones que requieren máxima claridad, como el fondo de textos o formularios, asegurando una legibilidad óptima y una presentación pulida.
 
+<p align="center">
+  <img src="assets/chapter04/white.png" style="width:500px; height:auto;">
+</p>
+
 #000000 (Negro): Aplicado para textos o iconos en áreas donde el contraste es crucial para la lectura, especialmente en textos sobre fondos claros.
+
+<p align="center">
+  <img src="assets/chapter04/black.png" style="width:500px; height:auto;">
+</p>
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
