@@ -3,11 +3,11 @@
 
 ### Gamers
 
-<img src="/assents/to-be-scenario-gamers.png" alt="to-be-scenario-gamers" />
+<img src="/assets/to-be-scenario-gamers.png" alt="to-be-scenario-gamers" />
 
 ### Desarrolladoras
 
-<img src="/assents/to-be-scenario-desarrolladoras.png" alt="to-be-scenario-desarroladoras"/>
+<img src="/assets/to-be-scenario-desarrolladoras.png" alt="to-be-scenario-desarroladoras"/>
 
 ## 3.2. User Stories.
 
@@ -63,11 +63,11 @@ Como desarrollador, quiero tener acceso a métricas detalladas sobre el comporta
 
 ### Gamers
 
-<img src="/assents/Impact-Mapping-G.png" alt="Impact-Mapping-G" />
+<img src="/assets/Impact-Mapping-G.png" alt="Impact-Mapping-G" />
 
 ### Desarrolladoras
 
-<img src="/assents/Impact-Mapping-D.png" alt="Impact-Mapping-D"/>
+<img src="/assets/Impact-Mapping-D.png" alt="Impact-Mapping-D"/>
 
 ## 3.4. Product Backlog.
 
