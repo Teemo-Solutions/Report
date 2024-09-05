@@ -276,6 +276,8 @@ De la misma manera se consideran más secciones. Podemos identificar algunas eti
 
 
 ### 4.2.4. Searching Systems
+Para el sistema de recomendación de videojuegos Vortex, el Searching Systems se refiere a la funcionalidad y la estructura para buscar y filtrar contenido en la plataforma.
+
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
