@@ -151,7 +151,7 @@ competir eficazmente frente a otras plataformas de descubrimiento de videojuegos
 
 - ¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?
 
-#### Segmento Objetivo: Dueños de Empresas Desarrolladoras de Videojuegos
+#### Segmento Objetivo: Empresas Desarrolladoras de Videojuegos
 
 #### Datos demográficos:
 
