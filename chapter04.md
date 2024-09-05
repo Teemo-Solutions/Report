@@ -70,6 +70,19 @@ La paleta de colores seleccionada para la plataforma se ha diseñado con el obje
 La tipografía principal utilizada será DM Sans, seleccionada por su simplicidad, legibilidad y modernidad. Asegura una experiencia de lectura clara tanto en pantallas pequeñas como grandes, lo que la hace ideal para la interfaz de nuestra plataforma de videojuegos.
 
 Este enfoque asegura que se respeten los principios de diseño modernos y que el estilo tipográfico sea consistente en toda la aplicación.
+
+**Icon:**
+
+Nuestro logo está inspirado en el concepto de vortex, en línea con la temática espacial de la plataforma. Representa un remolino dinámico, evocando movimiento y descubrimiento. El color predominante del logo es el violeta, que es nuestro color principal y representativo, simbolizando creatividad y misterio, mientras mantiene una conexión visual con el espacio y la tecnología.
+
+<p align="center">
+  <img src="assets/chapter04/vortex_icon.svg" style="width:500px; height:auto;">
+<br><br>
+  <img src="assets/chapter04/vortex_icon_white.svg" style="width:500px; height:auto;">
+</p>
+
+Este enfoque resalta la identidad visual del logo y su conexión con la temática del proyecto.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
