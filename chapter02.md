@@ -185,6 +185,8 @@ competir eficazmente frente a otras plataformas de descubrimiento de videojuegos
 
 ### 2.2.2. Registro de entrevistas.
 
+### URL ENTREVISTAS: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu
+
 ### Segmento objetivo: Gamers Entusiastas
 
 ### **Entrevista #1** <br>
@@ -205,8 +207,8 @@ competir eficazmente frente a otras plataformas de descubrimiento de videojuegos
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_Bruno Chaud](assets/Registro_Entrevista_Seg01_BrunoChaud.png) <br>
-Inicio De Entrevista: 9:45 
-Fin de la entrevista: 14:46 <br>
+Inicio De Entrevista: 0:00 
+Fin de la entrevista: 6:34 <br>
 
 #### ¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?
 
@@ -256,8 +258,8 @@ Le gustaría ver más avances en la realidad virtual y aumentada, juegos que int
 
 #### Imagen de referencia:
   ![Entrevista_Seg02_Paolo](assets/Registro_Entrevista_Seg02_Paolo.png) <br>
-  Inicio De Entrevista: 14:46  
-  Fin de la entrevista: 21:14 <br>
+  Inicio De Entrevista: 6:35  
+  Fin de la entrevista: 14:28 <br>
 
 #### ¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?
 Uno de los factores más importantes para mí al decidir comprar o jugar un nuevo videojuego es si mis amigos también lo están jugando. La experiencia de juego es mucho más divertida y social cuando puedo compartirla con personas que conozco.
@@ -299,8 +301,8 @@ Me gustaría ver una tendencia hacia la normalización de los videojuegos como u
 
 #### Imagen de referencia:
 ![Entrevista_Seg03_Pescoran](assets/Registro_Entrevista_Seg03_Pescoran.png) <br>
-Inicio De Entrevista: 21:14  
-Fin de la entrevista: 27:06 <br>
+Inicio De Entrevista: 14:28  
+Fin de la entrevista: 25:01 <br>
 
 #### ¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?  
 Mi principal motivación para elegir un videojuego es su relevancia en el ámbito competitivo, especialmente en los shooters, ya que estos juegos son mi fuente de ingresos. También considero la opinión de la comunidad sobre el juego, buscando que esté alineada con mis preferencias y que las especificaciones técnicas cumplan con los estándares requeridos para un rendimiento óptimo.
@@ -332,8 +334,8 @@ Estoy interesado en ver cómo avanza la realidad virtual y cómo puede revolucio
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_Adrian](assets/Adrian.png) <br>
-Inicio De Entrevista: 21:14  
-Fin de la entrevista: 27:06 <br>
+Inicio De Entrevista: 25:01  
+Fin de la entrevista: 31:44 <br>
 
 **Nombre:** Adrián Valerio
 
@@ -375,8 +377,8 @@ La integración de la inteligencia artificial será una de las innovaciones más
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_Juancho](assets/Juancho.png) <br>
-Inicio De Entrevista: 21:14  
-Fin de la entrevista: 27:06 <br>
+Inicio De Entrevista: 31:44  
+Fin de la entrevista: 35:52 <br>
 
 
 **Nombre:** Juan Santos
@@ -419,8 +421,8 @@ La realidad virtual, los juegos en la nube y la inteligencia artificial para cre
 
 #### Imagen de referencia:
 ![Entrevista_Seg02_Adrian](assets/adrian-de-la-torre.png) <br>
-Inicio De Entrevista: 11:30  
-Fin de la entrevista: 11:40 <br>
+Inicio De Entrevista: 35:52  
+Fin de la entrevista: 39:28 <br>
 
 
 **Nombre:** Adrian de la Torre
@@ -467,13 +469,107 @@ Me parece mas optimo ya que el usuario prefiere pagar poco mes a mes, que una ca
 La realidad virtual cada vez esta mejor, para mi en unos años sera el nuevo estándar de videojuegos.
 
 ### 2.2.3. Análisis de entrevistas.
+
+### Gráfico 1: Datos Demográficos de Gamers Entusiastas
+
+Género: 100% Masculino
+
+Edad: Media de 22 años
+
+Estado Civil: 100% Solteros
+
+Ocupación: 100% Estudiantes Universitarios
+
+| Género         | Porcentaje |
+|----------------|------------|
+| Masculino      | 100%       |
+| Femenino       | 0%         |
+
+| Edad           | Media      |
+|----------------|------------|
+| 19 - 24 años   | 100%       |
+
+| Estado Civil   | Porcentaje |
+|----------------|------------|
+| Soltero        | 100%       |
+| Casado         | 0%         |
+
+| Ocupación      | Porcentaje |
+|----------------|------------|
+| Estudiante     | 100%       |
+
+### Gráfico 2: Motivaciones de Compra de Gamers
+
+Factores Clave:
+
+Calidad Gráfica: 100%
+
+Jugabilidad: 100%
+
+Recomendaciones: 100%
+
+Componente Competitivo: 67%
+
+| Factores Clave                     | Porcentaje |
+|------------------------------------|------------|
+| Calidad Gráfica                    | 100%       |
+| Jugabilidad                        | 100%       |
+| Recomendaciones de Otros Jugadores | 100%       |
+| Componente Competitivo              | 67%        |
+
+### Gráfico 3: Frustraciones de Gamers al Buscar Videojuegos
+
+Dificultad para Encontrar Juegos: 50%
+
+Falta de Información Fiable: 50%
+
+| Frustraciones                                | Porcentaje |
+|----------------------------------------------|------------|
+| Dificultad para Encontrar Juegos             | 50%        |
+| Falta de Información Fiable                  | 50%        |
+
+### Gráfico 4: Desafíos para Empresas Desarrolladoras
+
+Saturación del Mercado: 100%
+
+Cumplimiento de Expectativas: 100%
+
+| Desafíos                                   | Porcentaje |
+|--------------------------------------------|------------|
+| Saturación del Mercado                     | 100%       |
+| Cumplimiento de Expectativas               | 100%       |
+
+### Gráfico 5: Estrategias de Marketing para Empresas
+
+Colaboraciones con Influencers: 100%
+
+Acceso Anticipado: 50%
+
+| Estrategias de Marketing                  | Porcentaje |
+|-------------------------------------------|------------|
+| Colaboraciones con Influencers            | 100%       |
+| Acceso Anticipado                         | 50%        |
+
+### Gráfico 6: Opiniones sobre el Modelo de Suscripción
+
+Atractivo para Jugadores: 100%
+
+Atractivo para Desarrolladores: 100%
+
+| Opiniones sobre Modelo de Suscripción     | Porcentaje |
+|-------------------------------------------|------------|
+| Atractivo para Jugadores                  | 100%       |
+| Atractivo para Desarrolladores            | 100%       |
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 
 - **User Persona Primer Segmento Objetivo(Gamers Entusiastas)**
+- 
   ![UserPersona_Segmento1](assets/UserPersona_Segmento1.png)
 - **User Persona Segundo Segmento Objetivo(Empresa desarrolladora de Videojuegos)**
+- 
   ![UserPersona_Segmento2](assets/UserPersona__Segmento2.png)
 
 ### 2.3.2. User Task Matrix.
@@ -540,6 +636,10 @@ El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuari
 ![As-Is Usuarios](assets/AS1.png)
 - As-Is del segmento objetivo Empresa desarrolladora de Videojuegos:
 ![As-Is_Coaching](assets/AS2.png)
+
+
+- URL Miro: https://miro.com/app/board/uXjVKYSGw5Y=/
+
 
 ## 2.4. Ubiquitous Language.
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
