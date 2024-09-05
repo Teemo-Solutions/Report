@@ -366,10 +366,9 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 -Monetización y Alianzas: Refinar el modelo de suscripción premium y explorar alianzas con desarrolladores para ofrecer promociones exclusivas, lo que podría aumentar la retención de usuarios y generar ingresos adicionales.
 
 ## Video About-the-Team.
-<<<<<<< HEAD
 # Bibliografía
 # Anexos
-=======
+
 ##  Bibliografía
 
 Ariely, D. (2008). Predictably irrational: The hidden forces that shape our decisions. HarperCollins.
@@ -383,6 +382,3 @@ Meyer, C., & Schwager, A. (2007). Understanding customer experience. Harvard Bus
 Ries, E. (2011). The lean startup: How today's entrepreneurs use continuous innovation to create radically successful businesses. Crown Business.
 
 Snyder, C. (2013). Paper prototyping: The fast and easy way to design and refine user interfaces. Morgan Kaufmann.
-
-
->>>>>>> e396e473f0370a920fc3e506187e8874a895df0b
