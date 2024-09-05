@@ -279,8 +279,24 @@ De la misma manera se consideran más secciones. Podemos identificar algunas eti
 Para el sistema de recomendación de videojuegos Vortex, el Searching Systems se refiere a la funcionalidad y la estructura para buscar y filtrar contenido en la plataforma.
 
 ### 4.2.5. Navigation Systems
+**Estructura de Navegación:**
+* Home
+* About Us (Menú desplegable: About Us y Team) 
+* Subscriptions
+* Community (Menú desplegable: Blog y Testimonials) por expandir.
+* Login
+
 ## 4.3. Landing Page UI Design
+En esta sección, detallaremos las mejores prácticas y los elementos de diseño que se han implementado para lograr una landing page efectiva y visualmente atractiva para Vortex.
 ### 4.3.1. Landing Page Wireframe
+En esta sección, exploraremos el wireframe de la Landing Page para Vortex, que sirve como una guía para el desarrollo y diseño visual posterior. El wireframe incluye elementos clave como la ubicación del encabezado, la navegación, las secciones principales de contenido, las llamadas a la acción y el pie de página. Además, se identifican las áreas destinadas a destacar características importantes, testimonios, y opciones de suscripción.
+
+El propósito de este wireframe es asegurar que la disposición de los elementos sea funcional y que cumpla con los objetivos del sitio web, facilitando una navegación intuitiva y una experiencia de usuario eficiente. La revisión y aprobación de este wireframe es un paso esencial antes de avanzar hacia el diseño detallado y la implementación final de la Landing Page.
+
+<p align="center">
+  <img src="assets/chapter04/black.png" style="width:500px; height:auto;">
+</p>
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
