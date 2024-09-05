@@ -60,6 +60,15 @@ Como desarrollador, quiero tener acceso a métricas detalladas sobre el comporta
 
 
 ## 3.3. Impact Mapping.
+
+### Gamers
+
+<img src="/assents/Impact-Mapping-G.png" alt="Impact-Mapping-G" />
+
+### Desarrolladoras
+
+<img src="/assents/Impact-Mapping-D.png" alt="Impact-Mapping-D"/>
+
 ## 3.4. Product Backlog.
 
 
