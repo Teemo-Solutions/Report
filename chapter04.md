@@ -454,7 +454,5 @@ Visibilidad: La accesibilidad de los atributos y métodos, especificando si son 
 - **Métodos**:
   - `realizarPago()`: Procesa el pago.
 
-Este diccionario cubre todas las clases principales del diagrama expandido, con sus respectivas relaciones, atributos y métodos.
-
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
