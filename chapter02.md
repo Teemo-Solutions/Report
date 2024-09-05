@@ -204,7 +204,7 @@ competir eficazmente frente a otras plataformas de descubrimiento de videojuegos
 **Ocupación:** Estudiante universitario 
 
 #### Imagen de referencia:
-![Entrevista_Seg01_Bruno Chaud](assets/img/Registro_Entrevista_Seg01_BrunoChaud.png) <br>
+![Entrevista_Seg01_Bruno Chaud](assets/Registro_Entrevista_Seg01_BrunoChaud.png) <br>
 Inicio De Entrevista: 9:45 
 Fin de la entrevista: 14:46 <br>
 
@@ -255,7 +255,7 @@ Le gustaría ver más avances en la realidad virtual y aumentada, juegos que int
 **Ocupación:** Universitario  
 
 #### Imagen de referencia:
-  ![Entrevista_Seg02_Paolo](assets/img/Registro_Entrevista_Seg02_Paolo.png) <br>
+  ![Entrevista_Seg02_Paolo](assets/Registro_Entrevista_Seg02_Paolo.png) <br>
   Inicio De Entrevista: 14:46  
   Fin de la entrevista: 21:14 <br>
 
@@ -298,7 +298,7 @@ Me gustaría ver una tendencia hacia la normalización de los videojuegos como u
 **Ocupación:** Estudiante universitario de Ingeniería de Software y gamer profesional en diversos videojuegos
 
 #### Imagen de referencia:
-![Entrevista_Seg03_Pescoran](assets/img/Registro_Entrevista_Seg03_Pescoran.png) <br>
+![Entrevista_Seg03_Pescoran](assets/Registro_Entrevista_Seg03_Pescoran.png) <br>
 Inicio De Entrevista: 21:14  
 Fin de la entrevista: 27:06 <br>
 
@@ -335,9 +335,9 @@ Estoy interesado en ver cómo avanza la realidad virtual y cómo puede revolucio
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 
 - **User Persona Primer Segmento Objetivo(Gamers Entusiastas)**
-  ![UserPersona_Segmento1](assets/img/UserPersona_Segmento1.jpg)
+  ![UserPersona_Segmento1](assets/UserPersona_Segmento1.png)
 - **User Persona Segundo Segmento Objetivo(Empresa desarrolladora de Videojuegos)**
-  ![UserPersona_Segmento2](assets/img/UserPersona__Segmento2.png)
+  ![UserPersona_Segmento2](assets/UserPersona__Segmento2.png)
 
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
