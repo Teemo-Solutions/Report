@@ -255,7 +255,7 @@ El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre
 <br><br>
 **Recomendación de Videojuegos:** Funcionalidad de Vortex que sugiere videojuegos a los jugadores, basándose en sus preferencias personales, historial de juegos, y las recomendaciones relacionadas con los gustos de sus amigos.
 <br><br>
-Lista de Favoritos: Colección personalizada de videojuegos que un jugador marca como favoritos, permitiendo un acceso rápido y fácil a los títulos que le interesan o que desea recordar.
+**Lista de Favoritos:** Colección personalizada de videojuegos que un jugador marca como favoritos, permitiendo un acceso rápido y fácil a los títulos que le interesan o que desea recordar.
 <br><br>
 **Amigo:** Otro usuario de Vortex con el cual un jugador ha establecido una conexión dentro de la plataforma. Los amigos pueden compartir sus listas de juegos, ver las recomendaciones entre sí y mantenerse al día sobre sus actividades relacionadas con videojuegos.
 <br><br>
