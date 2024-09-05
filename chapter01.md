@@ -1,4 +1,33 @@
+<style>
+  body {
+    font-family: 'Times New Roman', sans-serif;
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 2em;
+    margin-right: 2em;
+    line-height: 2;
+  }
+  
+  p {
+    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
+  }
 
+  h1 {
+    margin-left: 0; /* No aplica sangría para el título principal */
+  }
+
+  h2 {
+    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
+  }
+
+  h3 {
+    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
+  }
+
+  h4 {
+    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
+  }
+</style>
 
 # **CAPÍTULO I: INTRODUCCIÓN**
 ## 1.1. Startup Profile
@@ -13,38 +42,33 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
     <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/fernando-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/fernando-photo.png" style="width:700px; height:auto;"></td>
     <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 19 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
   </tr>
   <tr>
-    <th colspan="2">Quijandria Araneda, Vicente </th>
+    <th colspan="2">Quijandria Aranedal, Vicente </th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/vicente-photo.png" style="width:700px; height:auto;"></td>
-    <td>Mi nombre es Vicente Quijandria, tengo 24 años y estudio Ingeniería de Software en la UPC. Me apasiona mucho el desarrollo de aplicaciones, los algoritmos y estructuras de datos y las arquitecturas de software.
-    Actualmente trabajo como Analista de Despliegues en la empresa Tech-Mahindra aunque me gustaria cambiar de área a desarrollo.
-    En mis tiempos libres me gusta ver futbol, programar y pasar tiempo de calidad con mi enamorada, familia y amigos.</td>
+    <td>foto</td>
+    <td>descripción</td>
   </tr>
   <tr>
     <th colspan="2">Renteria Palacios, Yasser</th>
   </tr>
-  <td><img src="assets/chapter01/team/yasser-photo.png" style="width:700px; height:auto;"></td>
+  <td><img src="assets/chapter01/yasser-photo.png" style="width:700px; height:auto;"></td>
     <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional.</td>
   <tr>
     <th colspan="2">Riega Salas, Jose Miguel</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/Jose-photo.png" style="width:700px; height:auto;"></td>
-    <td> Mi nombre es José Miguel Riega Salas, estudiante de ingeniería de software en la Universidad de Ciencias Aplicadas,
-  me entusiasma mucho la idea de seguir aprediendo, la programación y la tecnología es en lo que me centro ahora mismo y 
-  seria de mi agrado dedicarme a ello en un fututo cercano. Me encanta pasar tiempo con mis amigos y el deporte; siempre 
-  buscando aprender de lo que rodea y de lo que observo.</td>
+    <td>foto</td>
+    <td>descripción</td>
   <tr>
     <th colspan="2">Torres García, Andrés Alberto
   </th>
   </tr>
   <tr>
-    <td><img src= "assets/chapter01/team/andres-photo.png" ></td>
+    <td><img src= "assets/chapter01/andres-photo.png" ></td>
     <td>Hola, soy Andrés Alberto Torres García, estudiante de 19 años en el quinto ciclo de Ingeniería de Software. Siempre me ha interesado tecnología, siempre me he preguntado cómo funcionan las cosas, lo que me motiva a ir más allá de lo que se me enseña en clase. Esta curiosidad me impulsa a explorar cada detalle, ayundome ampliar mis conocimiento y definir mejor mi enfoque profesional.Además de la tecnología, el fútbol es otra de mis grandes pasiones, lo he practicado durante prácticamente toda mi vida. La dedicación al deporte me ha enseñado el valor del trabajo en equipo, la disciplina y la perseverancia, cualidades que aplico también en mi vida académica y profesional.
   </td>
 </table>
@@ -81,10 +105,8 @@ Para analizar los antecedentes y problemáticas del desarrollo nuestro proyecto,
 
 Esta estructura nos permite una comprensión clara y detallada de los antecedentes y problemáticas relacionadas con el desarrollo de la aplicación web para recomendaciones de videojuegos.
 ### 1.2.2 Lean UX Process.
+a
 #### 1.2.2.1. Lean UX Problem Statements.
-En la actual era digital, los videojuegos se han convertido en una de las principales formas de entretenimiento, con una enorme diversidad de títulos y plataformas disponibles. Sin embargo, muchos jugadores enfrentan la dificultad de descubrir nuevos juegos que realmente se alineen con sus preferencias y estilo de juego. Además, la experiencia social de compartir estos intereses con amigos está fragmentada entre múltiples plataformas, lo que dificulta la interacción fluida entre jugadores. Por otro lado, los desarrolladores de juegos independientes enfrentan barreras para dar a conocer sus creaciones en un mercado saturado.
-<br>
-Vortex busca resolver estos problemas proporcionando una plataforma unificada donde los usuarios pueden recibir recomendaciones personalizadas de videojuegos basadas en sus preferencias y listas de favoritos. La plataforma también permite la interacción social, permitiendo agregar amigos y compartir intereses en juegos. Para los desarrolladores, Vortex ofrece la oportunidad de subir y promocionar sus videojuegos directamente a una audiencia segmentada, aumentando la visibilidad y el alcance de sus proyectos. De este modo, Vortex se posiciona como una solución integral tanto para jugadores en busca de su próximo juego favorito, como para desarrolladores que buscan dar a conocer sus innovaciones.
 #### 1.2.2.2. Lean UX Assumptions.
 
 **Bussiness Assumptions**
@@ -175,7 +197,7 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 
 **1. Recomendaciones Personalizadas:**
 
-**- Algoritmo de Recomendación:** Implementar un sistema avanzado de recomendaciones que sugiera juegos a los usuarios en función de sus preferencias de juego, hábitos y títulos previos jugados.
+**- Algoritmo de Recomendación:**  Implementar un sistema avanzado de recomendaciones que sugiera juegos a los usuarios en función de sus preferencias de juego, hábitos y títulos previos jugados.
 
 **- Promociones Exclusivas:** Ofrecer promociones exclusivas de juegos que se ajusten a los gustos individuales de cada usuario, incentivando la participación y la compra de nuevos títulos.
 
@@ -189,25 +211,11 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 
 **- Suscripción Premium:** Ofrecer una suscripción que brinde acceso a funciones avanzadas, como recomendaciones más personalizadas, acceso anticipado a promociones exclusivas y herramientas adicionales para gestionar sus juegos y conexiones.
 
-**- Publicidad Personalizada para Desarrolladores:** Implementar un modelo de publicidad en la plataforma que permita a los desarrolladores promover sus juegos a audiencias segmentadas, con un enfoque en los intereses específicos de los usuarios.
-
+**- Publicidad Personalizada para Desarrolladores:**  Implementar un modelo de publicidad en la plataforma que permita a los desarrolladores promover sus juegos a audiencias segmentadas, con un enfoque en los intereses específicos de los usuarios.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-**Creemos que** el sistema de recomendaciones personalizadas de videojuegos basado en preferencias y conexiones sociales proporcionará una experiencia más atractiva a los gamers. **Sabremos que** esto es cierto cuando el 60% de los usuarios interactúen con las recomendaciones y encuentren nuevos juegos para descargar o jugar.
-
-**Creemos que** la posibilidad de que las empresas desarrolladoras promocionen sus títulos directamente en la plataforma proporcionará mayor visibilidad a los desarrolladores de videojuegos independientes. **Sabremos que** esto es cierto cuando las empresas vean un aumento del 25% en clics en los juegos promocionados a través de nuestra plataforma.
-
-**Creemos que** permitir a los usuarios crear perfiles detallados y conectarse con amigos en la plataforma proporcionará una mayor interacción social a los gamers. **Sabremos que** esto es cierto cuando al menos el 40% de los usuarios interactúen regularmente con sus amigos y compartan recomendaciones de juegos.
-
-**Creemos que** el sistema de suscripciones premium que ofrece acceso a funcionalidades avanzadas, como recomendaciones más precisas y acceso anticipado a lanzamientos de videojuegos, proporcionará un valor adicional a los gamers frecuentes. **Sabremos que** esto es cierto cuando el 20% de los usuarios opten por la suscripción premium en los primeros 6 meses.
-
-**Creemos que** al ofrecer una estructura de ingresos donde el 90% del pago por cada videojuego va para el desarrollador y el 10% para la plataforma proporcionará un incentivo atractivo a los desarrolladores para publicar y promocionar sus juegos en nuestra plataforma. **Sabremos que** esto es cierto cuando al menos el 30% de los desarrolladores de videojuegos independientes elijan nuestra plataforma para vender sus títulos y generemos ingresos extra a partir de estas transacciones.
-
 #### 1.2.2.4. Lean UX Canvas.
-
-<img src="/assets/chapter01/leanUX/canva.png" alt="lean UX canva" >
-
 ## 1.3. Segmentos objetivo.
-En cuanto el segmento objetivo, es importante delimitar con a qué sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
+En cuanto el segmento objetivo, es importante delimitar con a que sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
 
 Para ello, se ha definido dos segmentos objetivo: Gamers Entusiastas y Empresas Desarrolladoras de Videojuegos. A continuación, se detallan las características y descripciones de cada segmento:
 
