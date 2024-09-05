@@ -1,33 +1,4 @@
-<style>
-  body {
-    font-family: 'Times New Roman', sans-serif;
-    text-align: justify;
-    font-size: 12px;
-    margin-left: 2em;
-    margin-right: 2em;
-    line-height: 2;
-  }
-  
-  p {
-    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
-  }
 
-  h1 {
-    margin-left: 0; /* No aplica sangría para el título principal */
-  }
-
-  h2 {
-    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
-  }
-
-  h3 {
-    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
-  }
-
-  h4 {
-    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
-  }
-</style>
 
 # **CAPÍTULO I: INTRODUCCIÓN**
 ## 1.1. Startup Profile
@@ -42,14 +13,14 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
     <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/fernando-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/fernando-photo.png" style="width:700px; height:auto;"></td>
     <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 19 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
   </tr>
   <tr>
     <th colspan="2">Quijandria Araneda, Vicente </th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/vicente-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/vicente-photo.png" style="width:700px; height:auto;"></td>
     <td>Mi nombre es Vicente Quijandria, tengo 24 años y estudio Ingeniería de Software en la UPC. Me apasiona mucho el desarrollo de aplicaciones, los algoritmos y estructuras de datos y las arquitecturas de software.
     Actualmente trabajo como Analista de Despliegues en la empresa Tech-Mahindra aunque me gustaria cambiar de área a desarrollo.
     En mis tiempos libres me gusta ver futbol, programar y pasar tiempo de calidad con mi enamorada, familia y amigos.</td>
@@ -57,13 +28,13 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
   <tr>
     <th colspan="2">Renteria Palacios, Yasser</th>
   </tr>
-  <td><img src="assets/chapter01/yasser-photo.png" style="width:700px; height:auto;"></td>
+  <td><img src="assets/chapter01/team/yasser-photo.png" style="width:700px; height:auto;"></td>
     <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional.</td>
   <tr>
     <th colspan="2">Riega Salas, Jose Miguel</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/Jose-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/Jose-photo.png" style="width:700px; height:auto;"></td>
     <td> Mi nombre es José Miguel Riega Salas, estudiante de ingeniería de software en la Universidad de Ciencias Aplicadas,
   me entusiasma mucho la idea de seguir aprediendo, la programación y la tecnología es en lo que me centro ahora mismo y 
   seria de mi agrado dedicarme a ello en un fututo cercano. Me encanta pasar tiempo con mis amigos y el deporte; siempre 
@@ -73,7 +44,7 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
   </th>
   </tr>
   <tr>
-    <td><img src= "assets/chapter01/andres-photo.png" ></td>
+    <td><img src= "assets/chapter01/team/andres-photo.png" ></td>
     <td>Hola, soy Andrés Alberto Torres García, estudiante de 19 años en el quinto ciclo de Ingeniería de Software. Siempre me ha interesado tecnología, siempre me he preguntado cómo funcionan las cosas, lo que me motiva a ir más allá de lo que se me enseña en clase. Esta curiosidad me impulsa a explorar cada detalle, ayundome ampliar mis conocimiento y definir mejor mi enfoque profesional.Además de la tecnología, el fútbol es otra de mis grandes pasiones, lo he practicado durante prácticamente toda mi vida. La dedicación al deporte me ha enseñado el valor del trabajo en equipo, la disciplina y la perseverancia, cualidades que aplico también en mi vida académica y profesional.
   </td>
 </table>
@@ -232,6 +203,9 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 **Creemos que** al ofrecer una estructura de ingresos donde el 90% del pago por cada videojuego va para el desarrollador y el 10% para la plataforma proporcionará un incentivo atractivo a los desarrolladores para publicar y promocionar sus juegos en nuestra plataforma. **Sabremos que** esto es cierto cuando al menos el 30% de los desarrolladores de videojuegos independientes elijan nuestra plataforma para vender sus títulos y generemos ingresos extra a partir de estas transacciones.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+<img src="/assets/chapter01/leanUX/canva.png" alt="lean UX canva" >
+
 ## 1.3. Segmentos objetivo.
 En cuanto el segmento objetivo, es importante delimitar con a qué sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
 
