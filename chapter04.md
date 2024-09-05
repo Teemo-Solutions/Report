@@ -44,6 +44,14 @@ La paleta de colores seleccionada para la plataforma se ha diseñado con el obje
   <img src="assets/chapter04/violet.png" style="width:500px; height:auto;">
 </p>
 
+**Achromatic Colors:**
+
+#F4F7FA (Gris muy claro): Este color se emplea como fondo principal para áreas extensas, ofreciendo una base neutra y suave que no cansa la vista, manteniendo una atmósfera limpia y ligera.
+
+#FFFFFF (Blanco puro): Se utiliza en secciones que requieren máxima claridad, como el fondo de textos o formularios, asegurando una legibilidad óptima y una presentación pulida.
+
+#000000 (Negro): Aplicado para textos o iconos en áreas donde el contraste es crucial para la lectura, especialmente en textos sobre fondos claros.
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
