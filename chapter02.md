@@ -382,6 +382,12 @@ El cuadro a continuación incluye como columnas a los **User Personas**, desglos
 Este análisis permite comprender mejor las tareas clave que realizan los diferentes usuarios y cómo la plataforma puede satisfacer sus necesidades específicas. La solución deberá priorizar la personalización para los gamers y proporcionar herramientas efectivas de visibilidad y feedback para los desarrolladores.
 
 ### 2.3.3. User Journey Mapping.
+
+**Segmento Objetivo: Gamers Entusiastas**  
+![JourneyMap01](assets/journey_map_seg01.png)
+
+**Segmento Objetivo: Empresa desarrolladora de Videojuegos**  
+![JourneyMap02](assets/journey_map_seg02.png)
 ### 2.3.4. Empathy Mapping.
 
 - **Empathy Map Primer Segmento Objetivo(Gamers Entusiastas)**
