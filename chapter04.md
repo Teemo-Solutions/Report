@@ -40,6 +40,9 @@ La paleta de colores seleccionada para la plataforma se ha diseñado con el obje
 
 #300D30 (Violeta Oscuro): Este tono profundo y elegante se utiliza para destacar elementos clave, como botones importantes o encabezados, proporcionando un contraste visual que guía la atención del usuario de manera efectiva.   
 
+<p align="center">
+  <img src="assets/chapter04/violet.png" style="width:500px; height:auto;">
+</p>
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
