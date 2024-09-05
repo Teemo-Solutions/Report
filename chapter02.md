@@ -390,6 +390,12 @@ Este análisis permite comprender mejor las tareas clave que realizan los difere
   ![UserPersona_Segmento2](assets/Map2.png)
   
 ### 2.3.5. As-is Scenario Mapping.
+
+- As-Is del segmento objetivo Gamers Entusiastas:
+![As-Is Usuarios](assets/AS1.png)
+- As-Is del segmento objetivo Empresa desarrolladora de Videojuegos:
+![As-Is_Coaching](assets/AS2.png)
+
 ## 2.4. Ubiquitous Language.
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
 <br><br>
