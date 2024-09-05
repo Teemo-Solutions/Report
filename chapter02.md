@@ -414,6 +414,57 @@ Nos interesa trabajar con otros estudios, servicios de nube y plataformas de dis
 
 #### ¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?  
 La realidad virtual, los juegos en la nube y la inteligencia artificial para crear mundos más vivos están cambiando todo. Además, las experiencias de juego cada vez serán más personalizadas para cada jugador.
+<br>
+### **Entrevista #3** <br>
+
+#### Imagen de referencia:
+![Entrevista_Seg02_Adrian](assets/adrian-de-la-torre.png) <br>
+Inicio De Entrevista: 11:30  
+Fin de la entrevista: 11:40 <br>
+
+
+**Nombre:** Adrian de la Torre
+
+**Género:** Masculino
+
+**Edad:** 20
+
+**Distrito:** Surco
+
+**Estado civil:** Soltero
+
+**Hijos o dependientes:** Si
+
+#### ¿Cuáles son los mayores desafíos que enfrentan actualmente en la industria de los videojuegos?  
+La competencia, actualmente hay muchos juegos de diversos géneros muy buenos, y el jeugo que desarrolles debe resaltar algo a diferencia de los demas
+
+
+#### ¿Qué estrategias de marketing y promoción consideran más efectivas para llegar a su público objetivo?  
+Darle un beta a streamers y gente conocida de acuerdo al publico objetivo
+
+
+#### ¿Qué papel juegan las comunidades de jugadores y las redes sociales en su estrategia de marketing y desarrollo de videojuegos?  
+Muy importante, sobre todo las comunidades de jugadores, las cuales serán las que juzgen el juego.
+
+
+#### ¿Qué tipo de datos o métricas consideran más valiosos para evaluar el éxito de sus videojuegos? 
+Para mi el dato mas importante es cuantos jugadores activos hay.
+
+
+#### ¿Qué características o funcionalidades buscan en una plataforma ideal para promocionar y distribuir sus videojuegos?  
+Un buen algoritmo de recomendación y anuncios pagados
+
+
+#### ¿Qué opinan sobre el modelo de suscripción como una forma de monetización y distribución de videojuegos?
+Me parece mas optimo ya que el usuario prefiere pagar poco mes a mes, que una cantidad fuerte de una.
+
+
+#### ¿Qué tipo de colaboraciones o asociaciones buscan con otras empresas o plataformas en la industria de los videojuegos?
+ Colaboraciones con artistas para "skins" del juego
+
+
+#### ¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?  
+La realidad virtual cada vez esta mejor, para mi en unos años sera el nuevo estándar de videojuegos.
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
