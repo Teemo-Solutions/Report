@@ -310,9 +310,19 @@ En esta sección, presentaremos el mock-up de la Landing Page para Vortex, refle
 
 Landing Page para Desktop Web Browser
 
-[Enlace del Figma de Teemo Solutions](https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=0-1&t=jXqL7Xh7FqLBuM6V-1)
+<p align="center">
+  <img src="assets/chapter04/mockup.png" style="width:500px; height:auto;">
+</p>
 
 Landing Page para Mobile Web Browser
+
+<p align="center">
+  <img src="assets/chapter04/mockup%20mobile.png" style="width:500px; height:auto;">
+</p>
+
+Inconveniente al exportar el contenido del figma, revisión completa en el enlace:
+[Enlace del Figma de Teemo Solutions](https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=0-1&t=jXqL7Xh7FqLBuM6V-1)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
