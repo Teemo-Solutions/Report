@@ -206,6 +206,9 @@ Vortex busca resolver estos problemas proporcionando una plataforma unificada do
 
 <img src="/assets/chapter01/leanUX/canva.png" alt="lean UX canva" >
 
+![VideoTeam](assets/Video_About_Team.png)
+- URL Miro: https://miro.com/app/board/uXjVKYSGw5Y=/
+
 ## 1.3. Segmentos objetivo.
 En cuanto el segmento objetivo, es importante delimitar con a qué sector nos vamos a dirigir, para poder ofrecer una mejor atención y cumplir con las necesidades de los usuarios, y así realizar una aplicación más funcional a lo que se está requiriendo.
 
