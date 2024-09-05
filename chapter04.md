@@ -293,11 +293,26 @@ En esta sección, exploraremos el wireframe de la Landing Page para Vortex, que 
 
 El propósito de este wireframe es asegurar que la disposición de los elementos sea funcional y que cumpla con los objetivos del sitio web, facilitando una navegación intuitiva y una experiencia de usuario eficiente. La revisión y aprobación de este wireframe es un paso esencial antes de avanzar hacia el diseño detallado y la implementación final de la Landing Page.
 
+Landing Page para Desktop Web Browser
 <p align="center">
-  <img src="assets/chapter04/black.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20wireframe.png" style="width:500px; height:auto;">
 </p>
 
+Landing Page para Mobile Web Browser
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20mobile.png" style="width:500px; height:auto;">
+</p>
+
+[Enlace del Figma de Teemo Solutions](https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=0-1&t=jXqL7Xh7FqLBuM6V-1)
+
 ### 4.3.2. Landing Page Mock-up
+En esta sección, presentaremos el mock-up de la Landing Page para Vortex, reflejando cómo se integrarán los elementos visuales y el contenido definido en el wireframe. Este diseño detallado incluye la aplicación de la identidad visual de la marca, como el logotipo, esquemas de color, imágenes, iconografía y estilos tipográficos. También se incorporan los detalles interactivos, como botones, enlaces y formularios, para ofrecer una experiencia de usuario más completa y envolvente.
+
+Landing Page para Desktop Web Browser
+
+[Enlace del Figma de Teemo Solutions](https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=0-1&t=jXqL7Xh7FqLBuM6V-1)
+
+Landing Page para Mobile Web Browser
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
