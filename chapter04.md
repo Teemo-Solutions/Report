@@ -84,7 +84,11 @@ Nuestro logo está inspirado en el concepto de vortex, en línea con la temátic
 Este enfoque resalta la identidad visual del logo y su conexión con la temática del proyecto.
 
 ## 4.2. Information Architecture
-### 4.2.1. Organization Systems
+
+La arquitectura de la información de nuestra plataforma establece la estructura y organización de todos los elementos clave, facilitando la navegación eficiente y la experiencia de usuario. Está diseñada para asegurar que los usuarios, tanto desarrolladores como gamers, puedan acceder de manera intuitiva a las funcionalidades principales, como la creación de perfiles, recomendaciones personalizadas, y promoción de videojuegos. La jerarquía de información y los flujos de navegación están optimizados para una interacción fluida, asegurando que cada usuario encuentre lo que busca rápidamente y sin complicaciones.
+
+Como equipo, hemos decidido implementar los patrones de diseño Z y F para optimizar la experiencia del usuario en la plataforma. Estos patrones son conocidos por guiar la vista del usuario de manera eficiente a través del contenido clave. Además, hemos asegurado que la plataforma sea completamente responsive, lo que significa que ofrecerá una experiencia óptima en dispositivos de diferentes tamaños, desde móviles hasta pantallas de escritorio.### 4.2.1. Organization Systems
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
