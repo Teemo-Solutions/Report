@@ -321,8 +321,17 @@ Landing Page para Mobile Web Browser
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+
+![DiagramContext](assets/Contexto.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+![DiagramContext](assets/Contenedores.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+![DiagramContext](assets/Componentes.png)
+
 ## 4.7. Software Object-Oriented Design
    ### 4.7.1. Class Diagrams
 
