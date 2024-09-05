@@ -302,8 +302,6 @@ Me gustaría ver una tendencia hacia la normalización de los videojuegos como u
 Inicio De Entrevista: 21:14  
 Fin de la entrevista: 27:06 <br>
 
-### Intereses y Motivaciones
-
 #### ¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?  
 Mi principal motivación para elegir un videojuego es su relevancia en el ámbito competitivo, especialmente en los shooters, ya que estos juegos son mi fuente de ingresos. También considero la opinión de la comunidad sobre el juego, buscando que esté alineada con mis preferencias y que las especificaciones técnicas cumplan con los estándares requeridos para un rendimiento óptimo.
 
@@ -373,7 +371,49 @@ Nos enfocamos en colaborar con streamers y aprovechar las redes sociales para ex
 #### ¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?
 La integración de la inteligencia artificial será una de las innovaciones más impactantes. Se espera que la IA permita crear mundos más dinámicos y NPCs (personajes no jugables) con diálogos y comportamientos más realistas, lo que mejorará significativamente la inmersión del jugador.
 
- 
+ ### **Entrevista #2** <br>
+
+#### Imagen de referencia:
+![Entrevista_Seg01_Juancho](assets/Juancho.png) <br>
+Inicio De Entrevista: 21:14  
+Fin de la entrevista: 27:06 <br>
+
+
+**Nombre:** Juan Santos
+
+**Género:** Masculino
+
+**Edad:** 20
+
+**Distrito:** Surco
+
+**Estado civil:** Soltero
+
+**Hijos o dependientes:** No, sin hijos
+
+#### ¿Cuáles son los mayores desafíos que enfrentan actualmente en la industria de los videojuegos?  
+Uno de los mayores desafíos es cumplir con las altas expectativas de los jugadores mientras mantenemos los costos bajo control. También hay mucha competencia, y destacarse no es fácil.
+
+#### ¿Qué estrategias de marketing y promoción consideran más efectivas para llegar a su público objetivo?  
+Trabajar con influencers y hacer que los jugadores hablen de nuestro juego es clave. También nos gusta dar acceso anticipado para que la gente pruebe el juego y lo recomiende.
+
+#### ¿Qué papel juegan las comunidades de jugadores y las redes sociales en su estrategia de marketing y desarrollo de videojuegos?  
+Son súper importantes. Las comunidades nos ayudan a mejorar el juego con sus opiniones y las redes sociales son perfectas para hacer ruido y atraer más jugadores.
+
+#### ¿Qué tipo de datos o métricas consideran más valiosos para evaluar el éxito de sus videojuegos? 
+Miramos cuánto tiempo juegan, si regresan a jugar más, y cuántos deciden hacer compras dentro del juego. También valoramos mucho las reseñas y la participación en redes sociales.
+
+#### ¿Qué características o funcionalidades buscan en una plataforma ideal para promocionar y distribuir sus videojuegos?  
+Queremos plataformas que tengan muchos jugadores, que nos den buenos datos de cómo va el juego, y que faciliten actualizaciones. También es importante que sea una experiencia fácil tanto para nosotros como para los jugadores.
+
+#### ¿Qué opinan sobre el modelo de suscripción como una forma de monetización y distribución de videojuegos?
+Es una buena opción para llegar a más gente y generar ingresos constantes, pero el reto es mantener a los jugadores suscritos con contenido fresco y atractivo.
+
+#### ¿Qué tipo de colaboraciones o asociaciones buscan con otras empresas o plataformas en la industria de los videojuegos?
+Nos interesa trabajar con otros estudios, servicios de nube y plataformas de distribución. También nos gusta colaborar en eventos y lanzamientos para llegar a más jugadores.
+
+#### ¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?  
+La realidad virtual, los juegos en la nube y la inteligencia artificial para crear mundos más vivos están cambiando todo. Además, las experiencias de juego cada vez serán más personalizadas para cada jugador.
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
